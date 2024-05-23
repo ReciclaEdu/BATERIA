@@ -1,5 +1,4 @@
 # BATERIA
-Projeto de PCA - Introdução a aplicações WEB
 <title>BATERIAS</title>
     <style>
             color: rgb(32, 31, 31);
